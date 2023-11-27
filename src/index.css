@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon-div .close-icon {
+  height: 40px;
+  padding-top: 1%;
+}
+
+/* @media (max-width: 750px) {
+  .empty-div {
+    display: none;
+  }
+  
+} */
